@@ -9,7 +9,7 @@ any panel above, below, beside, or diagonally adjacent to the cell, because thos
 cannot possibly contain a bomb. If the player loses by clicking a bomb, display all
 the numeric values as well as the bomb positions. If the player succeeds in clicking all
 the panels except those containing bombs, the player wins and you should display a
-congratulatory message. Figure 15-44 shows the progression of a typical game. In the
+congratulatory message. The images shows the progression of a typical game. In the
 first screen, the user has clicked a panel, and the display indicates that no adjacent cells
 contain a bomb. In the second screen, the user has clicked a second panel, and the
 display indicates that one adjacent cell contains a bomb. In the last screen, the user has
